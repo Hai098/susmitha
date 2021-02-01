@@ -13,3 +13,5 @@ mARKAPURAM
 - python file name(executes a .py file)
 - mv old new(changes the file name)
 - rmdir(removing directory)
+##remote
+- git remote add remote name
